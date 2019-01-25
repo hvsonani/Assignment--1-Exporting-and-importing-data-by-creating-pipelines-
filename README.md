@@ -8,7 +8,7 @@ The zip folder contains the following files
 
 2) employee.txt is a flat file which contains exported data from humanresources.employee table
 
-3) SQLQUery contains script for creating Staging Table
+3) SQLQuery contains script for creating Staging Table
 
 4) Integration Services Project 2 folder contains SSIS package used to export data from humanresources.employee table to flat file
 
